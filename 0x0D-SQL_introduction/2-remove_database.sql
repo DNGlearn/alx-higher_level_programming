@@ -1,2 +1,2 @@
 -- deleting the database
-DROP DATBASE IF NOT EXISTS hbtn_0c_0;
+DROP DATBASE IF EXISTS hbtn_0c_0;
